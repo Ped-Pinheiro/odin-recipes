@@ -11,7 +11,7 @@ This is a solution to the [Odin Recipes challenge on TheOdinProject](https://www
 - [Author](#author)
 
 ## Overview
-The website will consist of a main index page which will have links to a few recipes.
+The website will consist of a main index page which have links to a few recipes.
 
 ### Links
 
